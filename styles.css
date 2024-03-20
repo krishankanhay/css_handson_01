@@ -1,0 +1,42 @@
+h1{
+    color: red;
+}
+h3,h2{
+    font-style: italic;
+    color: red;
+}
+.Orderlist1{
+    color: brown;
+    line-height: 40px;
+}
+
+.Orderlist{
+    color: brown;
+    letter-spacing: 5px;
+}
+
+p,a{
+    color: brown;
+}
+
+a{
+    font-style: italic;
+    color: brown;
+    text-decoration-line: none;
+    background-color: yellow;
+}
+
+.strike{
+    text-decoration: line-through; 
+}
+
+.yellow,.tutorial{
+    background-color: yellow;
+    
+}
+
+.external{
+    text-decoration: underline;
+    font-style: italic;
+}
+
